@@ -7,9 +7,9 @@ They do not represent deployed systems or physical protocols.
 
 ## Profiles
 
-- [Gaming Profile](gaming-profile.md)
-- [VR Profile](vr-profile.md)
-- [Autonomy / Drone Profile](autonomy-drone-profile.md)
+- [Gaming Profile](GAMING_PROFILE.md)
+- [VR Profile](VR_PROFILE.md)
+- [Autonomy / Drone Profile](AUTONOMY_DRONE_PROFILE.md)
 
 ## Notes
 
