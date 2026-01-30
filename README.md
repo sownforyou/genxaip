@@ -7,6 +7,7 @@ This repository contains the research and documentation for GenXAiP.
 - Conceptual documentation: `/docs`
 - Core simulation primitives: `/core`
 - Standalone experiments: `/simulations`
+- Metrics & limitations: METRICS_AND_LIMITATIONS.md
 
 This repository focuses on structure, coordination, and simulation — not production systems.
 
