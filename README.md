@@ -11,6 +11,7 @@ This repository documents the research behind the live GenXAiP system.
 - Standalone experiments: /simulations  
 - Metrics & limitations: METRICS_AND_LIMITATIONS.md  
 
+
 This repository focuses on structure, coordination, and simulation — not production systems.
 
 ---
