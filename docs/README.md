@@ -6,7 +6,7 @@ for the GenXAiP simulation platform.
 These documents describe simulated behaviors, assumptions, and research
 contexts only. They do not represent deployed systems or physical protocols.
 
-## Contents (planned)
+## Contents
 
 - Gaming Profile
 - VR Profile
