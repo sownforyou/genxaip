@@ -1,4 +1,14 @@
 # GenXAiP
+## Start Here
+
+This repository contains the research and documentation for GenXAiP.
+
+- Live interactive app: https://genxaip.com
+- Conceptual documentation: `/docs`
+- Core simulation primitives: `/core`
+- Standalone experiments: `/simulations`
+
+This repository focuses on structure, coordination, and simulation — not production systems.
 
 **Generation X-Wave Artificial Internodal Protocol**
 
