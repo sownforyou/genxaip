@@ -1,5 +1,6 @@
 # GenXAiP
 ## Start Here
+- Detailed documentation index: /docs/README.md
 
 This repository contains the research and documentation for GenXAiP.
 
